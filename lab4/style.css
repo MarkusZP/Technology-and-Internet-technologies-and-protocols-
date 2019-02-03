@@ -1,0 +1,53 @@
+
+   a { 
+    text-decoration: none; /* Отменяем подчеркивание у ссылки */
+    color: black;
+   } 
+ img {
+ 	width: 250px;
+ 	height: 250px;
+ }
+
+li {
+	list-style: none;
+}
+
+ html {
+ 	font: 12pt sans-serif; 
+ }
+
+ th {
+ 	background-color: #A4A6A5;
+ }
+
+ tr:nth-child(2n+1) {
+ 	background-color: #D2D5D3;
+ }
+
+ .photos p {
+  margin-bottom: 45px;
+ }
+
+ .article {
+ 	margin-bottom: 50px;
+ 	background-color: #E6E7E2;
+ 	padding: 35px;
+ }
+
+ .article a {
+ 	color: blue;
+ }
+
+ html {
+ 	background: rgba(248,80,50,1);
+ }
+
+
+body {
+text-align: center; 
+}
+.lab4 {
+width: 700px;
+height: 100%; 
+margin: 0 auto; 
+}
