@@ -1,1 +1,1 @@
-# Technology and Internet technologies and protocols 
+# Mark Slavenko ZNU `6.1216-1`
