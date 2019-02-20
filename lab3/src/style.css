@@ -8,13 +8,9 @@
  	height: 250px;
  }
 
- ul {
- 	    padding-inline-start: 0px;
+ h3 {
+ 	margin-left: 90px;
  }
-
-li {
-	list-style: none;
-}
 
  html {
  	font: 12pt sans-serif; 
@@ -29,6 +25,7 @@ li {
  }
 
  .photos p {
+ 	margin-left: 90px;
   margin-bottom: 45px;
  }
 
@@ -42,16 +39,3 @@ li {
  	color: blue;
  }
 
- html {
- 	background: rgba(248,80,50,1);
- }
-
-
-body {
-text-align: center; 
-}
-.lab4 {
-width: 700px;
-height: 100%; 
-margin: 0 auto; 
-}
